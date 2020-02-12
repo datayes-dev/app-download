@@ -4,7 +4,10 @@
 萝卜投研iOS
 ---------------------
 
-点击下载安装包[v3.60.0](itms-services://?action=download-manifest&url=https%3a%2f%2frobo-storage.datayes.com%2fapps%2firr%2fpackage%2fira3.60.0.328.plist "download link")
+[younghz的Markdown库1][1]
+[younghz的Markdown库2][2]
+[1]:https:://github.com/younghz/Markdown "Markdown"
+[2]:https:://github.com/younghz/Markdown "Markdown"
 
 萝卜投研Android
 ---------------------
