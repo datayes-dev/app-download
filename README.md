@@ -4,7 +4,7 @@
 萝卜投研iOS
 ---------------------
 
-点击下载安装包[v3.60.0](itms-services://?action=download-manifest&url=https%3a%2f%2frobo-storage.datayes.com%2fapps%2firr%2fpackage%2fira3.60.0.328.plist "download link")
+[v3.60.0](itms-services://?action=download-manifest&url=https://robo-storage.datayes.com/apps/irr/package/ira3.60.0.328.plist "download link")
 
 萝卜投研Android
 ---------------------
