@@ -4,7 +4,7 @@
 萝卜投研iOS
 ---------------------
 
-[3.60.0](https://www.baidu.com/)
+[3.60.0](itms-services://?action=download-manifest&url=https://robo-storage.datayes.com/apps/irr/package/ira3.60.0.328.plist)
 
 萝卜投研Android
 ---------------------
