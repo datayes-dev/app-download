@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+<!-- saved from url=(0046)https://mobile.wmcloud.com/mobile/datayes.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>通联数据</title>
+        
+        <meta name="viewport" content="user-scalable=0, initial-scale=1.0, maximum-scale=1">
+        <link rel="stylesheet" type="text/css" href="./css/style.css">
+    </head>
+
+    <body class="m_bg">
+        <div class="m_container">
+
+            <div class="m_appLst">
+                <a class="m_app" onclick="doClick()">
+                    <i class="./img/i_m_logo_apple"></i>
+                    <h5>最新版1.8.2</h5>
+                    <p>Size: 14.7MB</p>
+                    <p>2017-06-22</p>
+                </a>
+                <a class="m_app" onclick="doClick()">
+                    <i class="./img/i_m_logo_andriod"></i>
+                    <h5>最新版1.7.1</h5>
+                    <p>Size: 12.6MB</p>
+                    <p>2017-06-22</p>
+                </a>
+            </div>
+
+            <div class="m_appTips">
+                <p>如果点击图标之后没有下载App,可能是因为你使用了最新版本的微信。</p>
+                <p>点击<em>右上角</em>的<em>跳转</em>按钮，选择在<em>Safari中打开</em>，即可下载。</p>
+            </div>
+        </div>
+
+        <div class="m_foot"></div>
+
+        <script>
+            var appUrl = "itms-services://?action=download-manifest&url=https://robo-storage.datayes.com/apps/irr/package/ira3.60.0.328.plist";
+            var appAndroidUrl = "https://mobile.wmcloud.com/mobile/android/sns_android_signed_1_7_1.apk";
+            function doClick() {
+                var userAgent = window.navigator.userAgent.toLowerCase();
+                if (userAgent.indexOf("android") != -1) {
+                    location.href = appAndroidUrl;
+                } else if (userAgent.indexOf("iphone") != -1) {
+					if(regIos6.test(userAgent)){
+						location.href=appIos6;
+					}
+					if(regIos7.test(userAgent)){
+						location.href=appIos7;
+					}
+					if(regIos8.test(userAgent)){
+						location.href=appIos8;
+					}
+                    location.href = appUrl;
+                } else {
+
+                }
+            }
+        doClick()
+        </script>
+</body></html>
