@@ -4,12 +4,10 @@
 萝卜投研iOS
 ---------------------
 
-[v3.60.0][1]
-[younghz的Markdown库1][2]
-[younghz的Markdown库2][3]
-[1]:itms-services://?action=download-manifest&url=https://robo-storage.datayes.com/apps/irr/package/ira3.60.0.328.plist "download link"
+[younghz的Markdown库1][1]
+[younghz的Markdown库2][2]
+[1]:https:://github.com/younghz/Markdown "Markdown"
 [2]:https:://github.com/younghz/Markdown "Markdown"
-[3]:https:://github.com/younghz/Markdown "Markdown"
 
 萝卜投研Android
 ---------------------
