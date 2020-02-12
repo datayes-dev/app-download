@@ -5,6 +5,8 @@
 ---------------------
 
 [3.60.0](itms-services://?action=download-manifest&url=https://robo-storage.datayes.com/apps/irr/package/ira3.60.0.328.plist)
+[3.60.0][linkTest]
+[linkTest]: https:://www.baidu.com/
 
 萝卜投研Android
 ---------------------
